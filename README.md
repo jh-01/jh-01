@@ -34,6 +34,13 @@
 <a><img alt="CSS3" src="https://img.shields.io/badge/CSS3-orange?style=flat-square&logo=CSS3&logoColor=white"></a>
 <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black"></a>
 <a><img alt="PHP" src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"></a>
+<a><img alt="React" src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"></a>
+
+
+###### + App Stack
+<a><img alt="Android" src="https://img.shields.io/badge/Android-E34F26?style=flat-square&logo=Android&logoColor=white"></a>
+<a><img alt="React Native" src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React Native&logoColor=white"></a>
+
 
 
 ###### + DataBase Stack
