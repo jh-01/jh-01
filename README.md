@@ -4,7 +4,7 @@
 ### 기본 정보
 ###### + 학력사항
 <dl>
-    <li>2017.02~2019.12 || Younin high school</li>
+    <li>2017.02~2019.12 || Youngin high school</li>
     <li>2020.03 ~ || Sookmyung University</li>
 </dl>
 
